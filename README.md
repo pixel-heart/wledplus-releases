@@ -1,2 +1,1 @@
-# wledplus-releases
-Releases of WLED+
+# Releases of WLED+
