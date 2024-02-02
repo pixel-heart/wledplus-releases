@@ -1,3 +1,5 @@
+![WLED+](wledplus_og.png)
+
 # WLED+ Release Archive
 ![Latest Release](https://img.shields.io/github/v/release/thepixelheart/wledplus-releases?logo=github)
 
