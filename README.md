@@ -21,7 +21,6 @@
 | **✅ Android** | **7.0 and up** |
 | **✅ iOS** | **14.0 and up** |
 | **✅ macOS** | **Big Sur (11.0) and up** |
-| Windows | *Planned…* |
 
 *💌 If you are interested in other platforms, please [contact support](mailto:support@pixelheart.app).*
 
